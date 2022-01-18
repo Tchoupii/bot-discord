@@ -1,0 +1,17 @@
+{
+    "Crypteo":{
+        "apiKey":"fr2r8fv2s35vgr9zc2s1ju8kl6z",
+        "port" :9090,
+        "discordChannel" : "857968654239268914",
+        "mqttuser" :"crypteo",
+        "mqttpassword" : "Crypteo81"
+    },
+    "DSI":{
+        "apiKey":"61dd59a89823f2xr6d130dz5zl1",
+        "port" :9090,
+        "discordChannel" : "930039814454136845",
+        "mqttuser" :"crypteo",
+        "mqttpassword" : "Crypteo81"
+    }
+
+}

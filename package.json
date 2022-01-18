@@ -1,0 +1,23 @@
+{
+  "name": "bot-crypteo",
+  "version": "1.0.0",
+  "description": "creation du bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "mqtt": "^4.3.4",
+    "nodemon": "^2.0.15",
+    "tough-cookie": "^2.5.0",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
